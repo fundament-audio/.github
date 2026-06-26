@@ -10,9 +10,12 @@ Reference-level audio hardware that's modular, documented, measurable, repairabl
 
 ## How it works
 
-The **[platform repo](https://github.com/fundament-audio/platform)** is the method — philosophy, decision model, [measurement protocol](https://github.com/fundament-audio/platform/blob/main/MEASUREMENT_PROTOCOL.md) and documentation standard. Each loudspeaker is a build on top of it, in its own repo. Nothing's a sealed box: driver, amp, DSP, enclosure, tuning and measurements are all open, versioned and replaceable.
+The **[platform repo](https://github.com/fundament-audio/platform)** is the method — philosophy, decision model, measurement protocol and documentation standard. 
 
-Own it your way — **DIY · part-DIY / flatpack · local build · built-to-order.** Same open engineering; the difference is effort, not access.
+Each loudspeaker is a build on top of it, in its own repo. Nothing's a sealed box: driver, amp, DSP, enclosure, tuning and measurements are all open, versioned and replaceable.
+
+**DIY · part-DIY / flatpack · local build or built-to-order.** 
+Same open engineering; the difference is effort, not access.
 
 ---
 
