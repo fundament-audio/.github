@@ -2,7 +2,7 @@
 
 [Platform & method](https://github.com/fundament-audio/platform) · [Community (ASR)](https://www.audiosciencereview.com/forum/index.php?threads/fundament-an-open-source-fully-documented-subwoofer-platform-build-001-sealed-18%E2%80%B3-bms-18n862-fa502.72012/) · Website (soon)
 
-**Open-source, modular, fully measured loudspeakers. No black boxes. Easy to build obtain and repair. Everywhere. No lock-in. Ever **
+**Open-source, modular, fully measured loudspeakers. No black boxes. Easy to build obtain and repair. Everywhere. No lock-in. Ever**
 
 Reference-level audio hardware that's modular, documented, measurable, repairable and reproducible — and built to stay that way.
 
