@@ -1,6 +1,10 @@
 # FUNDAMENT
 
-**Open-source, fully measured loudspeaker design.**
+[Website](#) · [Community](https://www.audiosciencereview.com/forum/index.php?threads/fundament-an-open-source-fully-documented-subwoofer-platform-build-001-sealed-18%E2%80%B3-bms-18n862-fa502.72012/) · [Current builds](#current-builds) · [Principles](#core-principles)
+
+---
+
+**Open-source, fully measured loudspeaker design.** 
 
 Reference-level audio hardware that is modular, validated, documented, measurable, repairable and reproducible, and built to stay that way. 
 
